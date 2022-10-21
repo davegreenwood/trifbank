@@ -9,5 +9,5 @@ This example shows one way of creating overlapping triangle filters, on a non li
 
 - `README.md` This file.
 - `speech.wav` An example audio file.
-- `makefbanks` A MATLAB script that steps through the process.
-- `trianglefbank` A MATLAB function that uses the same idea.
+- `makefbanks.m` A MATLAB script that steps through the process.
+- `trianglefbank.m` A MATLAB function that uses the same idea.
